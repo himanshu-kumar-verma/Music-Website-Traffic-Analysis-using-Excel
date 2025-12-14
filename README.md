@@ -116,3 +116,5 @@
 - **Background:** Pharmacy Graduate | Aspiring Data Analyst
 - **Skills:** Excel, Power Bi, SQL, Data Analysis, Dashboarding
 - **LinkedIn:** https://www.linkedin.com/in/himanshu-kumar-verma2003
+- **Email:**
+  himanshukumarverma719@gmail.com
