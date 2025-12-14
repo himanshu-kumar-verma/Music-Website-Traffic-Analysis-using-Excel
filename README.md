@@ -1,6 +1,6 @@
-# 🎵 Music Website Traffic Analysis Dashboard
+# 🎵 Music Website Traffic Analysis
 
-## 📌 Brief One Line Summary
+## 📌 Brief Summary
 - Analyzed music website traffic data to identify user engagement patterns, top artists, popular tracks, geographic trends, and time-based insights using Excel.
 
 
