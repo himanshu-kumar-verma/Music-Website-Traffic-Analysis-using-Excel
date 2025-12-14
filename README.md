@@ -1,5 +1,16 @@
 # 🎵 Music Website Traffic Analysis
 
+**Internship Project at:** Alfido Tech.  
+**Role:** Data Analyst Intern  
+**Duration:** 1 Month
+
+## 🏢 Project Context
+
+- This project was completed as part of a **Data Analyst Internship** at **Alfido Tech**
+- The analysis and dashboard were developed for learning and internal evaluation purposes.
+- All insights and visualizations were created by the author using publicly available data.
+
+
 ## 📌 Brief Summary
 - Analyzed music website traffic data to identify user engagement patterns, top artists, popular tracks, geographic trends, and time-based insights using Excel.
 
@@ -109,12 +120,11 @@
 - Perform deeper user behavior analysis using session-level data.
 - Add predictive analysis to forecast trending artists and tracks.
 - Integrate real time or streaming data sources.
+  
 
+## 👤 Author & Internship Details
 
-## 👤 Author & Contact
-- **Name:** Himanshu Kumar Verma 
-- **Background:** Pharmacy Graduate | Aspiring Data Analyst
-- **Skills:** Excel, Power Bi, SQL, Data Analysis, Dashboarding
-- **LinkedIn:** https://www.linkedin.com/in/himanshu-kumar-verma2003
-- **Email:**
-  himanshukumarverma719@gmail.com
+**Himanshu Kumar Verma**  
+Data Analyst Intern – Alfido Tech 
+- Email: himanshukumarverma719@gmail.com
+- LinkedIn: https://www.linkedin.com/in/himanshu-kumar-verma2003
